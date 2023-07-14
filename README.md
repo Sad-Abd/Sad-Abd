@@ -1,6 +1,7 @@
 # Sadjad's GitHub Profile
 
 [![Followers](https://img.shields.io/github/followers/Sad-Abd?style=social)](https://github.com/Sad-Abd)
+[![Stars](https://img.shields.io/github/stars/Sad-Abd?style=social)](https://github.com/Sad-Abd)
 
 ## About Me
 
