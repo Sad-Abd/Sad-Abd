@@ -2,6 +2,8 @@
 
 [![Followers](https://img.shields.io/github/followers/Sad-Abd?style=social)](https://github.com/Sad-Abd)
 [![Stars](https://img.shields.io/github/stars/Sad-Abd?style=social)](https://github.com/Sad-Abd)
+[![Translations](https://img.shields.io/weblate/translations/Sad-Abd?logo=weblate)](https://hosted.weblate.org/user/Sad-Abd)
+
 
 ## About Me
 
