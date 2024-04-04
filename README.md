@@ -48,7 +48,7 @@ You can learn more about me and my work on my personal website **[Scicho](https:
 <table>
   <tr>
     <td><a href="https://github.com/Sad-Abd/qtreemesh" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sad-Abd&repo=qtreemesh&theme=dracula" alt="qtreemesh card" style="max-width: 100%; width: 1400px;"></a></td>
-    <td><strong>qtreemesh</strong> is a Python package for converting images into Quadtree structures and meshes, ideal for scientific applications like finite element analysis. With easy installation via pip, it offers intuitive tools for preprocessing images, performing Quadtree decompositions, and generating meshes.</td>  
+    <td><strong>qtreemesh</strong> is a Python package for converting images into Quadtree structures and meshes, suitable for numerical analysis. With easy installation via pip, it offers intuitive tools for preprocessing images, performing Quadtree decompositions, and generating nonconforming quadrilateral meshes (suitable for SBFEM) or adjusting elements to handle hanging nodes and generate triangular meshes (suitable for FEM).</td>  
   </tr>
     <tr>
     <td><a href="https://github.com/Sad-Abd/pypolymesher" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sad-Abd&repo=pypolymesher&theme=dracula" alt="pypolymesher card" style="max-width: 100%; width: 1400px;"></a></td>
