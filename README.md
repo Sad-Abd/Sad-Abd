@@ -9,7 +9,7 @@
 
 🎓 PhD in Biomechanics
 
-👨‍🏫 Adjunct Lecturer at Sahand University of Technology (SUT)
+👨‍🏫 Assistant Professor of Biomedical Engineering at University of Isfahan
 
 ### Expertise & Interests
 
